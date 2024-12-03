@@ -1,0 +1,5 @@
+conda activate mlagents
+cd C:\Users\timsi\Unity_Projects\ml-agents
+mlagents-learn config\ShooterAgents.yaml --run-id=21112024_FixingShooteragentV1
+
+Löschen <--
